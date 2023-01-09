@@ -3,8 +3,11 @@
 [![](https://img.shields.io/badge/CSDN-%40Cyril__KI-yellowgreen)](https://blog.csdn.net/Cyril_KI) [![](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%40KI%E7%9A%84%E7%AE%97%E6%B3%95%E6%9D%82%E8%AE%B0-red)](https://img-blog.csdnimg.cn/7f70eb88bb3949ccb33b84feb8a53f10.jpg) <a href="https://stackoverflow.com/users/18517317/ki-ljl"><img src="https://img.shields.io/stackexchange/stackoverflow/r/18517317?logo=StackOverflow&color=important&label=StackOverflow"/></a>
 ![](https://img.shields.io/github/followers/ki-ljl?style=social) ![](https://img.shields.io/github/stars/ki-ljl?style=social) 
 ![visitor badge](https://visitor-badge.deta.dev/badge?page_id=ki-ljl.visitor-badge)
+
 -->
+
 - 🔭 I have graduated from North China Electric Power University.
+
 <!--
 - 🔭 I’m currently working on Tianjin University.
 
@@ -12,6 +15,7 @@
 
 - 📫 How to reach me: lijunliang.ki@gmail.com.
 -->
+
 <!--
 ## GitHub Stats
 <div align="center" dir="auto">
@@ -47,6 +51,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 </div>
+  
 <!--
 **LIUYANG735/LIUYANG735** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -60,4 +65,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 -->
