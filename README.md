@@ -11,7 +11,8 @@
 - 🌱 I taught myself Machine Learning during my undergraduate period. My undergraduate graduation design was about Federated learning. My postgraduate research direction is about Social Network Mining.
 
 - 📫 How to reach me: lijunliang.ki@gmail.com.
-
+-->
+<!--
 ## GitHub Stats
 <div align="center" dir="auto">
 <img align="middle" src="https://github-readme-stats.vercel.app/api?username=ki-ljl&show_icons=true&hide_title=false&include_all_commits=true&count_private=true&theme=merko" height="auto" width="50%"/>
@@ -28,10 +29,10 @@
 <div align="center"> <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ki-ljl&theme=xcode" width="100%"/> </div>
 <br>
 <div align="center"> <img align="center" src="https://github-profile-trophy.vercel.app/?username=ki-ljl" width="100%/></div> 
-
 ## My CSDN Stats
 <div align="center"><img align="center" src="https://stats.justsong.cn/api/csdn?id=Cyril_KI&theme=dark" width="90%"></div>
 -->  
+  
 ## My Skill Sets
 <div align="center" dir="auto">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
