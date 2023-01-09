@@ -6,8 +6,6 @@
 -->
 - 🔭 I have graduated from North China Electric Power University.
 <!--
-
-
 - 🔭 I’m currently working on Tianjin University.
 
 - 🌱 I taught myself Machine Learning during my undergraduate period. My undergraduate graduation design was about Federated learning. My postgraduate research direction is about Social Network Mining.
@@ -33,7 +31,7 @@
 
 ## My CSDN Stats
 <div align="center"><img align="center" src="https://stats.justsong.cn/api/csdn?id=Cyril_KI&theme=dark" width="90%"></div>
-  
+-->  
 ## My Skill Sets
 <div align="center" dir="auto">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
